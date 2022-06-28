@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "362270A2-E651-4074-8CEE-60B64C6FDAAD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AD5D644-E09D-49D2-AB10-40F0AB8CFE79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Classes/UIHardening/UIHardening.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "applicationDidEnterBackround()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E236ACA1-3210-4DC4-A907-A8A6547F3A5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Classes/UIHardening/UIHardening.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "addHidingView(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E236ACA1-3210-4DC4-A907-A8A6547F3A5A - 192df321cd30298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.UIHardening.addHidingView(with: __C.UIView) -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Classes/UIHardening/UIHardening.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "632">
+               </Location>
+               <Location
+                  uuid = "E236ACA1-3210-4DC4-A907-A8A6547F3A5A - 192df321cd30298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.UIHardening.addHidingView(with: __C.UIView) -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Classes/UIHardening/UIHardening.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5464A09D-7131-4E66-B67A-F2711C529A73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Classes/UIHardening/UIHardening.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "addArrangeSubview(to:subview:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2B0D069-4AAE-4768-8DC2-F0ACF44D514E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "constructHttpEnabledChekcResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2B0D069-4AAE-4768-8DC2-F0ACF44D514E - 16a53bb940c79522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructHttpEnabledChekcResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "A2B0D069-4AAE-4768-8DC2-F0ACF44D514E - 16a53bb940c79522"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructHttpEnabledChekcResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCE5448F-4DF4-4C23-B46F-24212B0F45AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "constructExceptionDomainCheckResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCE5448F-4DF4-4C23-B46F-24212B0F45AE - 9756d6fb5e885f3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructExceptionDomainCheckResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "BCE5448F-4DF4-4C23-B46F-24212B0F45AE - 9756d6fb5e885f3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructExceptionDomainCheckResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F47C2D2D-2666-4FD4-B7A0-E49F6C556748"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "constructProxyCheckResult()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F47C2D2D-2666-4FD4-B7A0-E49F6C556748 - 636aa61135de0678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructProxyCheckResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "F47C2D2D-2666-4FD4-B7A0-E49F6C556748 - 636aa61135de0678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.constructProxyCheckResult() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9D5436B-C316-4D7C-A974-5C78ADBBD884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "checkExceptionalDomains()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9D5436B-C316-4D7C-A974-5C78ADBBD884 - c056cf68bf4f8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.checkExceptionalDomains() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "A9D5436B-C316-4D7C-A974-5C78ADBBD884 - c056cf68bf4f8d92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iosAppSecurity.NetworkSettingsHealthCheck.checkExceptionalDomains() -&gt; ()"
+                  moduleName = "iosAppSecurity"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Yunus.Uzun/MyGithub/iosAppSecurity/iosAppSecurity/Security/Modules/ProxyChecker/NetworkSettingsHealthCheck.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F6B68A-520C-400E-9376-01BDBC5CE78D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iosAppSecurity/Security/Modules/JailbreakChecker/JailbreakChecker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "run()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
